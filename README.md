@@ -74,3 +74,11 @@ pytest tests/test_login.py -v
 
 bash
 pytest tests/ --html=reports/report.html
+
+
+
+## 📸 测试结果截图
+
+![测试报告](## 📸 测试结果截图
+
+![测试报告](https://github.com/jiangchenbo666/jpetstore-test-selenium-pytest/blob/main/images/test_report.png?raw=true)
